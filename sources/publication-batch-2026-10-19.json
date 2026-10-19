@@ -31,7 +31,7 @@
         }
       ],
       "mode": "edited-explanation",
-      "status": "prepared"
+      "status": "source-published"
     },
     {
       "japanese": "docs/architecture/index.md",
@@ -46,7 +46,7 @@
         }
       ],
       "mode": "edited-explanation",
-      "status": "prepared"
+      "status": "source-published"
     },
     {
       "japanese": "docs/integration/index.md",
@@ -68,7 +68,7 @@
         }
       ],
       "mode": "edited-explanation",
-      "status": "prepared"
+      "status": "source-published"
     },
     {
       "japanese": "docs/legacy/README.md",
@@ -83,7 +83,7 @@
         }
       ],
       "mode": "edited-explanation",
-      "status": "prepared"
+      "status": "source-published"
     },
     {
       "japanese": "docs/operations/provenance/README.md",
@@ -105,7 +105,7 @@
         }
       ],
       "mode": "edited-explanation",
-      "status": "prepared"
+      "status": "source-published"
     },
     {
       "japanese": "docs/operations/publication-policy.md",
@@ -127,7 +127,9 @@
         }
       ],
       "mode": "edited-explanation",
-      "status": "prepared"
+      "status": "source-published"
     }
-  ]
+  ],
+  "source_commit": "492aa63602540f6e197924aeedbcdf11e56a945e",
+  "source_ci": "https://github.com/HIPSTAR-IScompany/quantaril/actions/runs/39250025316"
 }
